@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="22" total="24" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite2 (0)" duration-ms="15780" started-at="2022-03-20T13:02:08 IST" finished-at="2022-03-20T13:02:23 IST">
+    <groups>
+    </groups>
+    <test name="Sanity DevEmulator" duration-ms="15780" started-at="2022-03-20T13:02:08 IST" finished-at="2022-03-20T13:02:23 IST">
+      <class name="sanitytest.UnpplugedDevEmulatore">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sanitytest.UnpplugedDevEmulatore@619bd14c]" name="setUp" is-config="true" duration-ms="8359" started-at="2022-03-20T13:02:08 IST" finished-at="2022-03-20T13:02:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="subscription_year()[pri:0, instance:sanitytest.UnpplugedDevEmulatore@619bd14c]" name="subscription_year" duration-ms="7417" started-at="2022-03-20T13:02:16 IST" description="Test 05: Subscription year" finished-at="2022-03-20T13:02:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscription_year -->
+      </class> <!-- sanitytest.UnpplugedDevEmulatore -->
+    </test> <!-- Sanity DevEmulator -->
+  </suite> <!-- Suite2 (0) -->
+  <suite name="Suite2" duration-ms="24160" started-at="2022-03-20T13:01:44 IST" finished-at="2022-03-20T13:02:08 IST">
+    <groups>
+    </groups>
+    <test name="Sanity DevEmulator" duration-ms="24160" started-at="2022-03-20T13:01:44 IST" finished-at="2022-03-20T13:02:08 IST">
+      <class name="sanitytest.UnpplugedDevEmulatore">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:sanitytest.UnpplugedDevEmulatore@588ab592]" name="setUp" is-config="true" duration-ms="8800" started-at="2022-03-20T13:01:44 IST" finished-at="2022-03-20T13:01:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="register_plus_email_and_phone()[pri:0, instance:sanitytest.UnpplugedDevEmulatore@588ab592]" name="register_plus_email_and_phone" duration-ms="15233" started-at="2022-03-20T13:01:52 IST" description="Test 02: Register plus email and phone" finished-at="2022-03-20T13:02:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_plus_email_and_phone -->
+      </class> <!-- sanitytest.UnpplugedDevEmulatore -->
+    </test> <!-- Sanity DevEmulator -->
+  </suite> <!-- Suite2 -->
+</testng-results>
